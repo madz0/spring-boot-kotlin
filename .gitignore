@@ -1,0 +1,6 @@
+#intellij
+kotlinhello.iml
+.idea
+
+#maven
+target
